@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="25ecc28e-1f56-47d5-84d0-e41cb00be7c0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cBgDe0prF89kuaipNJZ9cvhtVY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.tabs" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\programing\PeopleList\src\main\resources\templates" />
+      <recent name="E:\programing\PeopleList\src\main\resources\static\css" />
+      <recent name="E:\programing\PeopleList\src\main\resources\static" />
+      <recent name="E:\programing\PeopleList\src\main\resources\static\css\css" />
+      <recent name="E:\programing\PeopleList\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="MainApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="PeopleList" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.MainApp" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="openjdk-14" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="25ecc28e-1f56-47d5-84d0-e41cb00be7c0" name="Default Changelist" comment="" />
+      <created>1590007281921</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590007281921</updated>
+      <workItem from="1590007284591" duration="7583000" />
+      <workItem from="1590015111095" duration="829000" />
+      <workItem from="1590019486788" duration="13281000" />
+      <workItem from="1590056376070" duration="2553000" />
+      <workItem from="1590058960399" duration="7562000" />
+      <workItem from="1590067139912" duration="56000" />
+      <workItem from="1590067513444" duration="323000" />
+      <workItem from="1590068659635" duration="5471000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="266" y="169" key="#Inspections" timestamp="1590049368248">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="266" y="169" key="#Inspections/0.0.1280.984@0.0.1280.984" timestamp="1590049368248" />
+    <state x="232" y="149" key="#Intentions" timestamp="1590044927949">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="232" y="149" key="#Intentions/0.0.1280.984@0.0.1280.984" timestamp="1590044927949" />
+    <state x="298" y="177" key="#MainApp" timestamp="1590019502298">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="298" y="177" key="#MainApp/0.0.1280.984@0.0.1280.984" timestamp="1590019502298" />
+    <state x="152" y="0" key="#Project_Structure" timestamp="1590069592827">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="120" y="65" key="#Project_Structure/0.0.1280.984@0.0.1280.984" timestamp="1590019228966" />
+    <state x="152" y="0" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1590069592827" />
+    <state x="100" y="38" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590077252191">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="94" y="146" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.984@0.0.1280.984" timestamp="1590019546734" />
+    <state x="100" y="38" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1590077252191" />
+    <state x="475" y="96" key="#com.intellij.ide.util.MemberChooser" timestamp="1590069191377">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="445" y="207" key="#com.intellij.ide.util.MemberChooser/0.0.1280.984@0.0.1280.984" timestamp="1590014486129" />
+    <state x="475" y="96" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1590069191377" />
+    <state x="237" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1590043824466">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="237" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1280.984@0.0.1280.984" timestamp="1590043824466" />
+    <state x="398" y="350" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1590014443511">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="398" y="350" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1280.984@0.0.1280.984" timestamp="1590014443511" />
+    <state x="448" y="182" key="FileChooserDialogImpl" timestamp="1590057762483">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="420" y="246" key="FileChooserDialogImpl/0.0.1280.984@0.0.1280.984" timestamp="1590046263080" />
+    <state x="448" y="182" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1590057762483" />
+    <state width="661" height="5" key="GridCell.Tab.0.bottom" timestamp="1590075134741">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="618" height="259" key="GridCell.Tab.0.bottom/0.0.1280.984@0.0.1280.984" timestamp="1590052143476" />
+    <state width="661" height="5" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1590075134741" />
+    <state width="661" height="5" key="GridCell.Tab.0.center" timestamp="1590075134741">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="618" height="259" key="GridCell.Tab.0.center/0.0.1280.984@0.0.1280.984" timestamp="1590052143476" />
+    <state width="661" height="5" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1590075134741" />
+    <state width="661" height="5" key="GridCell.Tab.0.left" timestamp="1590075134740">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="618" height="259" key="GridCell.Tab.0.left/0.0.1280.984@0.0.1280.984" timestamp="1590052143476" />
+    <state width="661" height="5" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1590075134740" />
+    <state width="661" height="5" key="GridCell.Tab.0.right" timestamp="1590075134741">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="618" height="259" key="GridCell.Tab.0.right/0.0.1280.984@0.0.1280.984" timestamp="1590052143476" />
+    <state width="661" height="5" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1590075134741" />
+    <state width="661" height="5" key="GridCell.Tab.1.bottom" timestamp="1590075134742">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="618" height="259" key="GridCell.Tab.1.bottom/0.0.1280.984@0.0.1280.984" timestamp="1590052143477" />
+    <state width="661" height="5" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1590075134742" />
+    <state width="661" height="5" key="GridCell.Tab.1.center" timestamp="1590075134741">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="618" height="259" key="GridCell.Tab.1.center/0.0.1280.984@0.0.1280.984" timestamp="1590052143477" />
+    <state width="661" height="5" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1590075134741" />
+    <state width="661" height="5" key="GridCell.Tab.1.left" timestamp="1590075134741">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="618" height="259" key="GridCell.Tab.1.left/0.0.1280.984@0.0.1280.984" timestamp="1590052143476" />
+    <state width="661" height="5" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1590075134741" />
+    <state width="661" height="5" key="GridCell.Tab.1.right" timestamp="1590075134742">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="618" height="259" key="GridCell.Tab.1.right/0.0.1280.984@0.0.1280.984" timestamp="1590052143477" />
+    <state width="661" height="5" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1590075134742" />
+    <state width="661" height="223" key="GridCell.Tab.2.bottom" timestamp="1590074722743">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="618" height="320" key="GridCell.Tab.2.bottom/0.0.1280.984@0.0.1280.984" timestamp="1590049734322" />
+    <state width="661" height="223" key="GridCell.Tab.2.bottom/0.0.1366.728@0.0.1366.728" timestamp="1590074722743" />
+    <state width="661" height="223" key="GridCell.Tab.2.center" timestamp="1590074722742">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="618" height="320" key="GridCell.Tab.2.center/0.0.1280.984@0.0.1280.984" timestamp="1590049734322" />
+    <state width="661" height="223" key="GridCell.Tab.2.center/0.0.1366.728@0.0.1366.728" timestamp="1590074722742" />
+    <state width="661" height="223" key="GridCell.Tab.2.left" timestamp="1590074722742">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="618" height="320" key="GridCell.Tab.2.left/0.0.1280.984@0.0.1280.984" timestamp="1590049734322" />
+    <state width="661" height="223" key="GridCell.Tab.2.left/0.0.1366.728@0.0.1366.728" timestamp="1590074722742" />
+    <state width="661" height="223" key="GridCell.Tab.2.right" timestamp="1590074722742">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="618" height="320" key="GridCell.Tab.2.right/0.0.1280.984@0.0.1280.984" timestamp="1590049734322" />
+    <state width="661" height="223" key="GridCell.Tab.2.right/0.0.1366.728@0.0.1366.728" timestamp="1590074722742" />
+    <state x="150" y="0" key="SettingsEditor" timestamp="1590077243836">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="141" y="123" key="SettingsEditor/0.0.1280.984@0.0.1280.984" timestamp="1590021762719" />
+    <state x="150" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1590077243836" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/ClientController.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/ClientController.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo typeName="org.springframework.aop.framework.JdkDynamicAopProxy" fieldName="advised" />
+      </pinned-members>
+    </pin-to-top-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/PeopleList$MainApp.ic" NAME="MainApp Coverage Results" MODIFIED="1590057959484" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.example.*</FILTER>
+    </SUITE>
+  </component>
+</project>

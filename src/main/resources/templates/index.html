@@ -1,0 +1,85 @@
+<!DOCTYPE HTML>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <Title>Iside</Title>
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+
+<style>
+    .parent {
+        width: 100%;
+        height: 100%;
+        position: absolute;
+        top: 0;
+        left: 0;
+        overflow: auto;
+    }
+
+    .block {
+        width: 250px;
+        height: 250px;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        margin: -125px 0 0 -125px;
+    }
+    .btn {
+        margin-top: 200px;
+        text-align: center;
+        padding: 7.5px 12px;
+        font-size: 12px;
+        border: 1px solid #cccccc;
+        border-radius: 4px;
+        box-shadow: inset 0 1px 0 rgba(255,255,255,.2), 0 1px 2px rgba(0,0,0,.05);
+        color: black;
+        background: red;
+    }
+    .text{
+        color: black;
+        text-align: center;
+    }
+
+    .standsrt{
+        margin-left: 200px;
+        margin-top: 200px;
+        text-align: center;
+    }
+
+    .all{
+
+        background: #6699ee;
+    }
+</style>
+    <h1 class="text">Online-recording</h1>
+</head>
+
+<body class="all">
+    <form action="#" th:action="@{/}" method="post" th:object="${name}">
+
+<div class="parent">
+    <div class="block">
+<p>Choose master:</p>
+              <select name="name" id="name">
+                    <option>Alla Victorovna</option>
+                    <option>Polina Muragina</option>
+                    <option>Diana Gorina</option>
+                </select>
+<p>Choose service:</p>
+        <select name="service" id="servise">
+            <option>Manicure</option>
+            <option>Pedicure</option>
+            <option>Shugaring</option>
+        </select>
+ <p>Input time:</p>
+        <input type="text" name="time" id="time">
+        <p> Input date:</p>
+        <input type="text" name="date" id="date">
+        <input type="submit" value="Sign up">
+
+</div>
+    <a href="sale" class="btn">Employment list</a>
+</div>
+    </form>
+
+
+
+</body>

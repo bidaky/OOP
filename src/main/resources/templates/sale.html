@@ -1,0 +1,64 @@
+<!DOCTYPE HTML>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+
+    <style>
+        .all{
+
+            background: #6699ee;
+        }
+        .parent {
+            width: 100%;
+            height: 100%;
+            position: absolute;
+            top: 0;
+            left: 0;
+            overflow: auto;
+        }
+
+        .block {
+            width: 250px;
+            height: 250px;
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            margin: -125px 0 0 -125px;
+        }
+
+        .th{
+            margin-left: 10px;
+        }
+        .td{
+            margin-left: 10px;
+        }
+    </style>
+
+</head>
+
+<body class="all">
+<h2 th:utext="${username}"></h2>
+<div class="parent">
+    <div class="block">
+<form action="#" th:action="@{/sale}" method="post" th:object="${name}">
+    <table>
+        <tr>
+            <th>Id</th>
+            <th>Name</th>
+            <th>Service</th>
+            <th>Time</th>
+            <th>Date</th>
+        </tr>
+        <div class="bid" th:each="bid: ${bids}">
+            <tr>
+                <td th:utext="${bid.id}"></td>
+                <td th:utext="${bid.name}"></td>
+                <td th:utext="${bid.service}"></td>
+                <td th:utext="${bid.time}"></td>
+                <td th:utext="${bid.date}"></td>
+            </tr>
+        </div>
+    </div>
+</div>
+    </table>
+</form>
+</body>
